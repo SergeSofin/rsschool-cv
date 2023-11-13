@@ -19,3 +19,17 @@ machinery or replacing defective parts as required. Skilled electrical and mecha
 Started new careere.  
 
 *****
+
+## Skills
+1. Read and interpret blueprints, sketches, specifications 
+2. Basic computer knowledge 
+3. Following instructions  
+
+*****
+
+## Education
+
+2007 - 2012 
+Master’s Degree Diploma (evaluated by WES Canada) in Electronic Engineering\
+(Electric Drive and Automation of Industrial Installations and Technological Facilities)  
+Samara State Technical University, Russia.  
