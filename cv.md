@@ -33,3 +33,16 @@ Started new careere.
 Master’s Degree Diploma (evaluated by WES Canada) in Electronic Engineering\
 (Electric Drive and Automation of Industrial Installations and Technological Facilities)  
 Samara State Technical University, Russia.  
+
+*****
+
+## Courses:
+
+1. RS Schools Course “JavaScript/Front-end. Stage #1” (in progress)
+2. Hexlet  Основы JavaScript   
+
+*****
+
+## language.
+1. Russian - native
+2. English - B1
